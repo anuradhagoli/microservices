@@ -12,7 +12,7 @@ Before you start:</br>
 Visual Studio or VS Code</br>
 Postman or a browser for testing</br>
 
-<h2>Create the Project</h2>
+<h2>Commands to create project</h2>
 
 In terminal or VS Code:</br>
 <code>dotnet new webapi -n ProductService</br>
