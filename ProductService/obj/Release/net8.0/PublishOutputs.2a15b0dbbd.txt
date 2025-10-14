@@ -1,0 +1,12 @@
+D:\Anu Self study\PTSBMS\ProductService\bin\Release\net8.0\publish\ProductService.exe
+D:\Anu Self study\PTSBMS\ProductService\bin\Release\net8.0\publish\appsettings.Development.json
+D:\Anu Self study\PTSBMS\ProductService\bin\Release\net8.0\publish\appsettings.json
+D:\Anu Self study\PTSBMS\ProductService\bin\Release\net8.0\publish\ProductService.dll
+D:\Anu Self study\PTSBMS\ProductService\bin\Release\net8.0\publish\ProductService.deps.json
+D:\Anu Self study\PTSBMS\ProductService\bin\Release\net8.0\publish\ProductService.runtimeconfig.json
+D:\Anu Self study\PTSBMS\ProductService\bin\Release\net8.0\publish\ProductService.pdb
+D:\Anu Self study\PTSBMS\ProductService\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\Anu Self study\PTSBMS\ProductService\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+D:\Anu Self study\PTSBMS\ProductService\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Anu Self study\PTSBMS\ProductService\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Anu Self study\PTSBMS\ProductService\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
